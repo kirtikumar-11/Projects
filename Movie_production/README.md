@@ -63,4 +63,4 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## ✨ Author
-**[Your Name]** — Data Analyst | Aspiring Data Scientist
+**Kirtikumar** — Data Analyst | Aspiring Data Scientist
